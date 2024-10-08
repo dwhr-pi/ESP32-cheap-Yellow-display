@@ -1,9 +1,20 @@
 # Projects for the ESP32-2432S028R aka "Cheap Yellow Display" (CYD)
-Arduino projects using the ESP32-2432S028R aka "Cheap Yellow Display" or CYD  
+Arduino projects using the ESP32-2432S028R aka "Cheap Yellow Display" or CYD 
 Programable from Arduino IDE, MicroPython, ESP-ID  
 
-[ESP32 Dev Board – 2.8 inch 240×320 Smart Display TFT with Touchscreen CYD – “Cheap Yellow Display” (ESP32-2432S028R)](https://makeradvisor.com/tools/cyd-cheap-yellow-display-esp32-2432s028r/)  
-Also available from AliExpress in 2.8" for ~$10 or 5"(?) for ~$35.
+### various resources
+Link to cheap-yellow-display discord channel: BLough https://discord.com/channels/630078152038809611/1109228361441620028 or search for Brian Lough on YouTube @BrianLough
+
+[ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) Building a community around a cheap ESP32 Display with a touch screen
+  [CYD as serial monitor](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/discussions/113) discussing issues with USB serial taking over the RX/TX
+
+[Tasmota & ESP32-Dev 2.8" TFT Display ESP32-2432S028R](https://github.com/arendst/Tasmota/discussions/17939)
+
+[ESP32-2432S028R info from Radio3 Network on github](https://github.com/radio3-network/kit-ESP32-2432S028R) Documentation and code related to the board ESP32-2432S028R
+
+[How to use Micropython on a CYD (Cheap Yellow Display)](https://kf106.medium.com/how-to-use-micropython-on-a-cyd-cheap-yellow-display-e158d5e4a2e7)
+
+## Board Information
 
 #### [ESP32-WROOM-32 module](https://www.espressif.com/en/products/modules/esp32)
   - ESP32-D0WD Dual-core Tensilica Xtensa LX6 MCU, integrated WI-FI and Bluetooth stacks.
@@ -52,8 +63,18 @@ download from https://github.com/RuiSantosdotme/ESP32-TFT-Touchscreen/raw/main/c
 #### Board configuration
 ESP32 -> ESP32 Dev Module
 
-## Projects
+## My Projects
 
 ### ESP32-Cheap-yellow-display-test
 Arduino project copied from [Getting Started with ESP32 Cheap Yellow Display Board – CYD (ESP32-2432S028R)](https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/) by Rui Santos & Sara Santos at Random Nerd Tutorials.  
 demos display and touch capabilities. - works! 
+
+## purchasing
+[ESP32 Dev Board – 2.8 inch 240×320 Smart Display TFT with Touchscreen CYD – “Cheap Yellow Display” (ESP32-2432S028R)](https://makeradvisor.com/tools/cyd-cheap-yellow-display-esp32-2432s028r/)  
+Also available from AliExpress in 2.8" for ~$10 or 5"(?) for ~$35.
+
+## Projects
+[Web radio](https://macsbug.wordpress.com/2022/08/20/web-radio-esp32-2432s028-i2s/) requires blue wires!
+
+#### Not necessarily CDY related
+[GRBL controller on a ESP32](https://github.com/mstrens/grbl_controller_esp32) to control a CNC running GRBL (GRBL runs on a micro, this project replaces PC driving GRBL)
