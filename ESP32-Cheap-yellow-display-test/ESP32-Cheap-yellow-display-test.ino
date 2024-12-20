@@ -91,6 +91,9 @@ void setup(void)
     pinMode(blue_LED, OUTPUT);
     digitalWrite(blue_LED, 1);
 
+    while (!Serial) 
+        ;
+
     Serial.println("Setup-Start");
     PrintFileNameDateTime();
 

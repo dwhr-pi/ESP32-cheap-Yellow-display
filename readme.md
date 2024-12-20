@@ -5,8 +5,9 @@ Programable from Arduino IDE, MicroPython, ESP-ID
 ### various resources
 Link to cheap-yellow-display discord channel: BLough https://discord.com/channels/630078152038809611/1109228361441620028 or search for Brian Lough on YouTube @BrianLough
 
-[ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) Building a community around a cheap ESP32 Display with a touch screen
-  [CYD as serial monitor](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/discussions/113) discussing issues with USB serial taking over the RX/TX
+[ESP32 Cheap Yellow Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) Building a community around a cheap ESP32 Display with a touch screen  
+
+[CYD as serial monitor](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/discussions/113) discussing issues with USB serial taking over the RX/TX  
 
 [Tasmota & ESP32-Dev 2.8" TFT Display ESP32-2432S028R](https://github.com/arendst/Tasmota/discussions/17939)
 
@@ -63,8 +64,11 @@ download from https://github.com/RuiSantosdotme/ESP32-TFT-Touchscreen/raw/main/c
 #### Board configuration
 ESP32 -> ESP32 Dev Module
 
-## My Projects
+## Micro Python
+[How to use Micropython on a CYD (Cheap Yellow Display)](https://kf106.medium.com/how-to-use-micropython-on-a-cyd-cheap-yellow-display-e158d5e4a2e7) Examples are on a Mac but adaptable.  
+[JettIsOnTheNet: Micropython Examples for ESP32 Cheap Yellow Display](https://github.com/JettIsOnTheNet/Micropython-Examples-for-ESP32-Cheap-Yellow-Display)  
 
+## My Projects
 ### ESP32-Cheap-yellow-display-test
 Arduino project copied from [Getting Started with ESP32 Cheap Yellow Display Board – CYD (ESP32-2432S028R)](https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/) by Rui Santos & Sara Santos at Random Nerd Tutorials.  
 demos display and touch capabilities. - works! 
