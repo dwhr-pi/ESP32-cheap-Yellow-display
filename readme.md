@@ -4,6 +4,8 @@ Programable from Arduino IDE, MicroPython, ESP-ID
 
 More Projects at GitHub found - not tested 
 https://github.com/topics/esp32-2432s028
+https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+https://www.bing.com/search?q=esp32-2432s028r+projects&PC=U316&FORM=CHROMN
 
 ### various resources
 Link to cheap-yellow-display discord channel: BLough https://discord.com/channels/630078152038809611/1109228361441620028 or search for Brian Lough on YouTube @BrianLough
