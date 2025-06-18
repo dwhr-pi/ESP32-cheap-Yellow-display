@@ -2,6 +2,9 @@
 Arduino projects using the ESP32-2432S028R aka "Cheap Yellow Display" or CYD 
 Programable from Arduino IDE, MicroPython, ESP-ID  
 
+More Projects at GitHub found - not tested 
+https://github.com/topics/esp32-2432s028
+
 ### various resources
 Link to cheap-yellow-display discord channel: BLough https://discord.com/channels/630078152038809611/1109228361441620028 or search for Brian Lough on YouTube @BrianLough
 
